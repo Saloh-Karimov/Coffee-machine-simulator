@@ -1,0 +1,20 @@
+content:
+  - Writing first program
+  - Printing data
+  - Types and variables
+  - Comments
+  - Reading user's input with Scanner
+  - Naming variables
+  - Arithmetic operations
+  - Increment and decrement
+  - Characters
+  - Defining classes
+  - One-line condition with ternary operator
+  - For loop
+  - Instance methods
+  - Grouping classes with packages
+  - Initializing new instances. Constructor
+  - Objects and their properties
+  - Static members
+  - Combining constants with enum
+  - Processing strings
